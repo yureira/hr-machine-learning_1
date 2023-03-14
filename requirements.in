@@ -1,0 +1,19 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+imblearn
+fastapi
+uvicorn
+
+# Web development libraries
+flask
+
+# Other useful libraries
+jupyter
+ipython
+
+# Pytest
+pytest
